@@ -35,7 +35,7 @@
           }
           // optionalAttrs (!pathExists ./build.zig.zon) {
             pname = "terminal-doom";
-            version = "0.0.0";
+            version = "0.1.0";
           }));
 
       # nix build .
